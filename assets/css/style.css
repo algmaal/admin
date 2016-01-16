@@ -1,0 +1,29 @@
+body {
+   margin: 20px;
+   background-image: url("../img/background.jpg");
+}
+
+.row-margin {
+   margin-top: 20px;
+}
+
+#card-heading {
+   font-weight: bold;
+}
+
+#footer {
+   font-size: small;
+   font-style: italic;
+}
+
+.login-form {
+   max-width: 400px;
+}
+
+.error {
+   color: red;
+   font-size: small;
+   font-style: italic;
+   margin-top: 10px;
+   margin-bottom: 15px;
+}
